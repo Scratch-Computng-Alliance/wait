@@ -1,2 +1,2 @@
 # wait
-wait. a program that waits until a certain time. then prints (YOU WAITED!)
+random scnerio simulator written in python by the SCA
